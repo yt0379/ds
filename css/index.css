@@ -162,6 +162,8 @@
 	width: 1.186667rem;
 	height: 0.506667rem;
 	background: url(../img/more.png) 0 0 no-repeat;
+	-webkit-background-size: 100%;
+	background-size: 100%;
 	margin-top: 0.32rem;
 	margin-right: 0.373333rem;
 }
