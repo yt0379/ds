@@ -112,6 +112,8 @@
 	margin: 0.16rem auto 0;
 	background-repeat: no-repeat;
 	background-position: center;
+	-webkit-background-size: 0.586667rem 0.64rem;
+	background-size: 0.586667rem 0.64rem;
 }
 .nav-item>div.home{
 	background-image: url(../img/icon-house.png);
@@ -125,12 +127,20 @@
 }
 .nav-item>div.corp{
 	background-image: url(../img/icon-corp.png);
+		-webkit-background-size: 0.666667rem;
+	background-size: 0.666667rem;
 }
 .nav-item>div.treasure{
 	background-image: url(../img/icon-treasure.png);
+				-webkit-background-size: 0.64rem 0.56rem;
+	background-size:  0.64rem 0.56rem;
+
 }
 .nav-item>div.me{
 	background-image: url(../img/icon-me.png);
+				-webkit-background-size: 0.613333rem;
+	background-size: 0.613333rem;
+
 }
 .content-box{
 	position: fixed;
