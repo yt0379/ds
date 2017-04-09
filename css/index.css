@@ -159,9 +159,9 @@
 }
 .more{
 	float: right;
-	width: 1.413333rem;
-	height: 0.586667rem;
-	background: url(../img/more.png) center center no-repeat;
+	width: 1.186667rem;
+	height: 0.506667rem;
+	background: url(../img/more.png) 0 0 no-repeat;
 	margin-top: 0.32rem;
 	margin-right: 0.373333rem;
 }
