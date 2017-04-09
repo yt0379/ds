@@ -76,10 +76,8 @@
 .banner-box{
 	height: 6.106667rem;
 }
-.banner-box>img{	
-	max-width: 100%;
+.banner-box img{	
 	width: 10rem;
-	height: 6.106667rem;
 }
 
 .nav{
