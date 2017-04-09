@@ -109,7 +109,8 @@
 	height: 0.64rem;
 	margin: 0.16rem auto 0;
 	background-repeat: no-repeat;
-	background-position: center;
+	-webkit-background-size: contain;
+	background-size: contain;
 }
 .nav-item>div.home{
 	background-image: url(../img/icon-house.png);
@@ -129,7 +130,6 @@
 }
 .nav-item>div.me{
 	background-image: url(../img/icon-me.png);
-
 }
 .content-box{
 	position: fixed;
